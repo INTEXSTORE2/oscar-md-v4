@@ -56,15 +56,15 @@ global.syt = '---' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085850539404' //Nomor Danamu
-global.ppulsa = '085850539404' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/jarotoffc' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '081385012083' //Nomor Danamu
+global.ppulsa = '---' //Nomor SimCard Yang Kamu Pake
+global.psaweria = '---' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281376349712' //Nomor Bot
-global.nomorown = '6285850539404' //Nomor Owner
-global.namebot = 'OSCAR-MULTIDEVICE'  //Nama Bot
-global.nameown = 'Oscar Offc'  // Nama Owner
+global.nomorbot = '6281385012083' //Nomor Bot
+global.nomorown = '6281318054482' //Nomor Owner
+global.namebot = '𝙎𝙚𝙞𝙠𝙖 𝘽𝙤𝙩𝙯𝙯'  //Nama Bot
+global.nameown = 'メ𝙄𝙔𝘼𝙉𝙉×͜×'  // Nama Owner
 
 
 /*============== STAFF ==============*/
