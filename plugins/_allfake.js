@@ -46,10 +46,10 @@ handler.all = async function (m) {
 					title: global.ucapan,
 					body: wm,
 					mediaUrl: sgc,
-					description: 'Oscar-MultiDevice',
+					description: 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝙎𝙚𝙞𝙠𝙖 𝘽𝙤𝙩𝙯𝙯',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(thumb)).buffer(),
-					sourceUrl: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ",					
+					sourceUrl: "https://chat.whatsapp.com/JUasnSIppUK8WL1BSHWvX3",					
 				}
 			}
 		}
@@ -81,10 +81,10 @@ handler.all = async function (m) {
 			}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/Jarotr_",
+            mediaUrl: "https://Instagram.com/intexstore25",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/Jarotr_", 
-            title: 'Oscar-MultiDevice',
+            description: "https://Instagram.com/intexstore25", 
+            title: '𝙎𝙚𝙞𝙠𝙖 𝘽𝙤𝙩𝙯𝙯',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sig
@@ -92,10 +92,10 @@ handler.all = async function (m) {
     } }
 global.fakefb = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Facebook.com/jarot",
+            mediaUrl: "https://Facebook.com/",
             mediaType: "VIDEO",
-            description: "https://www.Facebook.com/jarot", 
-            title: 'Oscar-MultiDevice',
+            description: "https://Facebook.com/", 
+            title: '𝙎𝙚𝙞𝙠𝙖 𝘽𝙤𝙩𝙯𝙯',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
@@ -162,8 +162,8 @@ global.fakefb = {
                                "mimetype": "image/jpeg",
                                "jpegThumbnail": fs.readFileSync('./thumbnail.jpg') //Gambarnye
                            },
-                           "title": wm, //Kasih namalu 
-                           "description": "Oscar-MultiDevice", 
+                           "title": メ𝙄𝙔𝘼𝙉𝙉×͜×, //Kasih namalu 
+                           "description": "𝙎𝙚𝙞𝙠𝙖 𝘽𝙤𝙩𝙯𝙯", 
                            "currencyCode": "USD",
                            "priceAmount1000": "20000000",
                            "retailerId": "Ghost",
@@ -196,7 +196,7 @@ global.fakefb = {
                "groupInviteMessage": {
                    "groupJid": "6285850539404-1625305606@g.us",
                    "inviteCode": "null",
-                   "groupName": "Kawan Oscar", 
+                   "groupName": "Official Gc Own", 
                    "caption": wm, 
                    'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')
                }
