@@ -47,12 +47,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Jarotr_' //Link Instagrammu
-global.sgh = 'https://github.com/Alpiii22' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda'
+global.sig = 'https://instagram.com/intexstore25' //Link Instagrammu
+global.sgh = 'https://github.com/' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/JUasnSIppUK8WL1BSHWvX3'
 global.sdc = '_'
-global.stg = 'https://instagram.com/Jarotr_'
-global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //Isi Pake Link Discordmu Kalo Gada Biarin aja
+global.stg = 'https://instagram.com/intexstore25'
+global.syt = '---' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
