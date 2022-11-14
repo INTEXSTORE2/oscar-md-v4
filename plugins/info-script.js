@@ -8,9 +8,9 @@ let str = `*Minta ke owner klk di kasih kamu beruntung :v*`
 let wibu = `https://hadi-api.herokuapp.com/api/loli` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'ᴏᴋ','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/intexstore25",
+    mediaUrl: "https://chat.whatsapp.com/JUasnSIppUK8WL1BSHWvX3",
     title: '𝙎𝙚𝙞𝙠𝙖 𝘽𝙤𝙩𝙯𝙯',
-    body: 'Buat apa Ngab :v',
+    body: 'Join gc ngab :v',
     thumbnail: thumb,
     sourceUrl: sig
   }
