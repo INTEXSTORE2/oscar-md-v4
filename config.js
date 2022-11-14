@@ -92,18 +92,18 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEYMU',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'Apikeymu',
+  'https://api.lolhuman.xyz': 'Papah-Chan',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://violetics.pw': 'beta'
 }
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 OSCAR-MULTIDEVICE 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Oscar-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺  OSCAR-MD'
+global.wm = '                「 𝙎𝙚𝙞𝙠𝙖 𝘽𝙤𝙩𝙯𝙯 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝙎𝙚𝙞𝙠𝙖 𝘽𝙤𝙩𝙯𝙯˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺  𝙎𝙚𝙞𝙠𝙖 𝘽𝙤𝙩𝙯𝙯'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -372,7 +372,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '.'
 global.stickauth = `☂︎\nO\nS\nC\nR\nO\nF\C-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ OSCAR'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝙎𝙚𝙞𝙠𝙖 𝘽𝙤𝙩𝙯𝙯'
 
 global.multiplier = 38 // The higher, The harder levelup
 
